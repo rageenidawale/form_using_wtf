@@ -5,9 +5,7 @@ This project demonstrates how to create a **contact form** in Flask using **WTFo
 
 ## 🚀 Features  
 - 📝 **Form Handling with WTForms** - Efficiently manage form inputs.  
-- ✅ **Validation** - Prevents empty or incorrect submissions.  
-- 📩 **Email Notifications** - Sends form data via email.  
-- 🎨 **Bootstrap Styling** - Enhances UI appearance.  
+- ✅ **Validation** - Prevents empty or incorrect submissions. 
 
 ## 🛠️ Technologies Used  
 - **Python** 🐍  
