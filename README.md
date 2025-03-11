@@ -11,7 +11,6 @@ This project demonstrates how to create a **contact form** in Flask using **WTFo
 - **Python** 🐍  
 - **Flask** 🌍  
 - **WTForms** 📝  
-- **Flask-Mail** 📩  
 
 ## 📂 Installation  
 
